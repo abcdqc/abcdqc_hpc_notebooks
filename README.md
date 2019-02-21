@@ -5,4 +5,4 @@ This project is composed of three github repos ([abcdqc_webserver](https://githu
 
 ![ABCDQC Project Schematic](https://raw.githubusercontent.com/abcdqc/abcdqc_batchserver/master/ABCDQCflowchart.png "Project Schematic")
 
-Notebooks for creating swarm jobs for the abcdqc project
+The notebooks in this repo in used in creating swarm jobs on the [NIH High Performance Compute (HPC) Cluster](http://hpc.nih.gov) to run the MRIQC jobs on the ABCD FastTrack data.
